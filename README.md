@@ -1,5 +1,6 @@
 # Netflix-Data-Macro-Analytics-Dashboard
 # ExcelPulse: Netflix Data & Macro Analytics Dashboard
+![Dashboard Önizlemesi](dashboard-preview.png)
 
 A comprehensive data analytics and business intelligence project built entirely within Excel, featuring advanced data modeling, interactive visualizations, and automated VBA macros for a seamless user experience.
 
